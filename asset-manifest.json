@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LoveGenerator/static/css/main.1770ca38.chunk.css",
+    "main.js": "/LoveGenerator/static/js/main.59a35f83.chunk.js",
+    "main.js.map": "/LoveGenerator/static/js/main.59a35f83.chunk.js.map",
+    "runtime-main.js": "/LoveGenerator/static/js/runtime-main.8a7636ca.js",
+    "runtime-main.js.map": "/LoveGenerator/static/js/runtime-main.8a7636ca.js.map",
+    "static/css/2.de424728.chunk.css": "/LoveGenerator/static/css/2.de424728.chunk.css",
+    "static/js/2.1b645f84.chunk.js": "/LoveGenerator/static/js/2.1b645f84.chunk.js",
+    "static/js/2.1b645f84.chunk.js.map": "/LoveGenerator/static/js/2.1b645f84.chunk.js.map",
+    "index.html": "/LoveGenerator/index.html",
+    "precache-manifest.cfd6fa75142297b801ab4ed75dba90c7.js": "/LoveGenerator/precache-manifest.cfd6fa75142297b801ab4ed75dba90c7.js",
+    "service-worker.js": "/LoveGenerator/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/LoveGenerator/static/css/2.de424728.chunk.css.map",
+    "static/css/main.1770ca38.chunk.css.map": "/LoveGenerator/static/css/main.1770ca38.chunk.css.map",
+    "static/js/2.1b645f84.chunk.js.LICENSE.txt": "/LoveGenerator/static/js/2.1b645f84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a7636ca.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.1b645f84.chunk.js",
+    "static/css/main.1770ca38.chunk.css",
+    "static/js/main.59a35f83.chunk.js"
+  ]
+}
